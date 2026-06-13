@@ -1,0 +1,10 @@
+title       = "acmq"
+baseURL     = "https://acmqueue-cli.tamnd.com/"
+description = "Read ACM Queue practitioner technology articles"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/acmqueue-cli"
